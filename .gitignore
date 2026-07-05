@@ -1,0 +1,11 @@
+# File CV yang diupload pengguna - jangan ikut di-commit
+uploads/cv/*
+!uploads/cv/.gitkeep
+
+# File environment lokal (kalau ada nanti)
+.env
+.env.local
+
+# File sistem
+.DS_Store
+Thumbs.db
